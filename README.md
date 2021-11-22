@@ -1,2 +1,20 @@
-# NLP_Unsupervised_Learning
+# NLP Unsupervised Learning
 Trip Advisor hotel reviews analysis
+
+SDAIA Academy Bootcamp project 4
+
+
+# Table of Content
+- [Project Proposal](https://github.com/amal2121/NLP_Unsupervised_Learning/blob/main/Project%20Proposal.md)
+- [Hotel Reviews Preprocessing](https://github.com/amal2121/NLP_Unsupervised_Learning/blob/main/Trip%20Advisor%20Hotel%20_Preprocessing.ipynb)
+- [Dataset](https://github.com/amal2121/NLP_Unsupervised_Learning/blob/main/tripadvisor_hotel_reviews%20(1).csv)
+- [Sentiment Analysis & Classifier](https://github.com/amal2121/NLP_Unsupervised_Learning/blob/main/NLP_Sentiment%20Analysis%20%26%20Classifier..ipynb)
+- [NLP Topic Modeling](https://github.com/amal2121/NLP_Unsupervised_Learning/blob/main/NLP%20Topic%20Modeling%20T5.ipynb)
+- [Hotel Reviews Slides](https://github.com/amal2121/NLP_Unsupervised_Learning/blob/main/NLP1.pdf)
+- [Hotel Reviews Final Report](https://github.com/amal2121/NLP_Unsupervised_Learning/blob/main/Trip%20Advisor%20Hotel%20Reviews%20Final_Report.pdf)
+
+
+## By:
+- [Amirah Alotaibi](https://github.com/amirahSaad)
+- [Alanoud Alhussain](https://github.com/Alanoud-Aziz)
+- [Amal Altamran](https://github.com/amal2121)
