@@ -1,8 +1,10 @@
 # NLP Unsupervised Learning
+
 Trip Advisor hotel reviews analysis
 
 SDAIA Academy Bootcamp project 4
 
+![download](https://user-images.githubusercontent.com/90132938/146420954-06041ca8-ceb7-4a34-8e98-1a6bf6dabdb7.png)
 
 # Table of Content
 - [Project Proposal](https://github.com/amal2121/NLP_Unsupervised_Learning/blob/main/Project%20Proposal.md)
